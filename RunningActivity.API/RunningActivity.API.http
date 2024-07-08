@@ -1,0 +1,6 @@
+@RunningActivity.API_HostAddress = http://localhost:5086
+
+GET {{RunningActivity.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
